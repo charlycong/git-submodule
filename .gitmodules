@@ -1,0 +1,4 @@
+[submodule "etix-common"]
+	path = etix-common
+	url = https://github.com/charlycong/git-test.git
+	branch = master
